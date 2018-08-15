@@ -1,3 +1,3 @@
-# My first project
+# My first project is great
 
 This line says something.
